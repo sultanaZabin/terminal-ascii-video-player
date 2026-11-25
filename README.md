@@ -1,3 +1,5 @@
+![ascii video demo](assets/ezgif-765e9c70d8b4607a.gif)
+
 # ascii video player
 
 turn any video into colored ascii art and play it right in ur terminal
